@@ -6,4 +6,4 @@ Find external and local ip in ios
 
 It's a source of application for find external and local ip in ios
 
-it's written in b4i
+It's written in b4i
